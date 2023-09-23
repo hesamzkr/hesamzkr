@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
-![Hesam's GitHub stats](https://github-readme-stats-kappa-lilac-89.vercel.app/api?username=hesamzkr&show_icons=true&theme=radical)
+![Hesam's GitHub stats](https://github-readme-stats-kappa-lilac-89.vercel.app/api?username=hesamzkr&show_icons=true&theme=radical&count-private=true)
 
 <!--
 **hesamzkr/hesamzkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
