@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&count-private=true)]
+![Top Langs](https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&count-private=true)
 ![Hesam's GitHub stats](https://github-readme-stats-kappa-lilac-89.vercel.app/api?username=hesamzkr&show_icons=true&theme=radical&count-private=true)
 
 <!--
