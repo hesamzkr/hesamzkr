@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-kappa-lilac-89.vercel.app/api?username=hesamzkr&show_icons=true&theme=radical&langs_count=8&custom_title=<username> GitHub Stats&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-kappa-lilac-89.vercel.app/api?username=hesamzkr&show_icons=true&theme=radical&langs_count=8&card_width=320" />
 </a>
 
 <!--
