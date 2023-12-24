@@ -1,7 +1,7 @@
 ### Salutations!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&theme=radical&include_orgs=true&hide=blade&lang_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&theme=radical&include_orgs=true&hide=blade" />
 </a>
 
 <!--
