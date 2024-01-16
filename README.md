@@ -4,7 +4,7 @@
   <img
     height=200
     align="center"
-    src="https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&count_private=true&theme=radical&exclude_repo=SoftwareSytems,NetworkSystems&include_orgs=true&hide=blade"
+    src="https://github-readme-stats-kappa-lilac-89.vercel.app/api/top-langs/?username=hesamzkr&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats,SoftwareSytems,NetworkSystems&include_orgs=true&hide=blade"
     />
 </a>
 
